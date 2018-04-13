@@ -1,4 +1,4 @@
-# CS319_Group_2M
+# Survival in Bilkent
 
 
 "Survival in Bilkent" is a top to down 2D shooter type of game. You play as a student in Bilkent University whom strugles to complete his 4 year major without running out of time. The game will be played in a restricted area which enemies are various strugles (Lab assignments, midterms, finals, projects etc.) a Bilkent CS students comes accross druing their 4 year major. The objective of the student is to defeat these physical representations of the strugles by shooting codes and pieces of his/her will to study. Game will have 4 levels to represent the 4 year major. Between each level there will be an upgrade phase that player will get power-ups, higher stats and new items to use during his journey. 
